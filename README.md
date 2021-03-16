@@ -31,8 +31,9 @@
 <!-- <code><img height="20" alt="Matlab" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code> -->
 <br/>
 <br/>
+
 ### 📫 Let's Connect:
-[<img align="left" alt="Dev-1603 | YouTube" width="66px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mohapatra.dev02@gmail.com)
+[<img align="left" alt="Varlackc | YouTube" width="66px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mohapatra.dev02@gmail.com)
 <!-- [<img align="left" alt="Dev-1603 | YouTube" width="88px" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/maxwell.varlack) -->
 [<img align="left" alt="Dev-1603 | LinkedIn" width="86px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/debjyoti-mohapatra-73a73b123)
 <!-- [<img align="left" alt="Dev-1603 | YouTube" width="82px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCiZaDRtcGoj0M_sX_ZEM-Yw) -->
