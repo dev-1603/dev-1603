@@ -1,4 +1,4 @@
-### 👋 Hello, my name is Maxwell Varlack 👋
+### 👋 Hello, my name is Debjyoti Mohapatra 👋
 
 ## 💻 Software Engineer
 - 👀 I’m interested in 
