@@ -1,7 +1,7 @@
 ### 👋 Hello, my name is Debjyoti Mohapatra 👋
 
 ## 💻 Software Engineer
-- 👀 I’m interested in web development , javascript, frontend development , python
+- 👀 I’m interested in web development , javascript, Nodejs, frontend development 
 - 🌱 Always learning something new... Because time is only constant rest changes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Linkedin (preferable)
