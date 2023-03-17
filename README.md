@@ -1,7 +1,7 @@
 ### 👋 Hello, my name is Debjyoti Mohapatra 👋
 
 ## 💻 Software Engineer
-- 👀 I’m interested in web development , javascript, Nodejs, frontend development 
+- 👀 I’m interested in web development , javascript, typescript, Nodejs, frontend development , fullstack development
 - 🌱 Always learning something new... Because time is only constant rest changes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Linkedin (preferable)
