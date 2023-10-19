@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: Linkedin (preferable)
 - please find the attached [resume](https://app.box.com/s/yytj246iytolyij7qbcnnz49xyg2hj14)
+  
 <br/>
 
 ### 🛠️ Languages and Tools:
